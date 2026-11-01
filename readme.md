@@ -25,8 +25,8 @@ https://betawiki.net/wiki/Windows_8.1_build_9600.18009
 **Q: How does it differ from DirectStart?**
 A: Its not a WPF-based recreation like DirectStart was, it is the real deal being made to run on 8.1, so less bugs than DirectStart, more features and behaves exactly like the Windows 10 Beta's Start Menu.
 
-**Q: Does it support metro tiles now?**
-A: Its 1:1 exactly as functional as the real Windows RT Update 3/w10 beta's start menu, so yes.
+**Q: Does it support metro and live tiles now?**
+A: YES. Its 1:1 exactly as functional as the real Windows RT Update 3/w10 beta's start menu.
 
 ## Credits:
 - reprety
