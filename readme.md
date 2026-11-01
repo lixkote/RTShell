@@ -1,9 +1,7 @@
-# RTShell
 
-## Port of Windows RT Update 3 to "normal" Windows 8.1 x64 bit
 
 Features:
-- Real port/reimplementation, not a crappy WPF recreation like DirectStart was
+- Real port/reimplementation of Windows RT Start menu update, not a crappy WPF recreation like DirectStart was
 - All Windows RT Update 3 features(Start menu, rounded user profile pictures, auto-colorization)
 
 For all changes see:
