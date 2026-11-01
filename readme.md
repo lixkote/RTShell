@@ -15,6 +15,10 @@ https://betawiki.net/wiki/Windows_8.1_build_9600.18009
 - KB3138602, KB3184143, KB4054519 updates installed
 - Twinui.dll version 6.3.9600.18819 and explorer.exe version 6.3.9600.18460
 
+## Questions?
+Join my projects discord server:
+https://discord.gg/rMwqmtktxC
+
 ## Installation:
 1. Download and unzip the file from releases. 
 2. You need to obtain Windows 10 Beta 9785 iso and Windows RT Update 3 KB3033055 .msu file
