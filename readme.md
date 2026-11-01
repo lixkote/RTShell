@@ -1,4 +1,4 @@
-
+https://raw.githubusercontent.com/lixkote/RTShell/refs/heads/main/logo.png
 
 Features:
 - Real port/reimplementation of Windows RT Start menu update, not a crappy WPF recreation like DirectStart was
