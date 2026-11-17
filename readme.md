@@ -20,7 +20,7 @@ For all changes see: https://betawiki.net/wiki/Windows_8.1_build_9600.18009
 Join my projects [Discord Server](https://discord.gg/rMwqmtktxC).
 
 ## Installation:
-Download and run ``rtshell-setup.exe`` and follow the wizard.
+Download & run ``rtshell-setup.exe``, then follow the wizard.
 
 ### FAQ:
 
