@@ -20,9 +20,7 @@ For all changes see: https://betawiki.net/wiki/Windows_8.1_build_9600.18009
 Join my projects [Discord Server](https://discord.gg/rMwqmtktxC).
 
 ## Installation:
-1. Download and unzip the file from releases,
-2. Download Windows 10 Beta 9785 .iso and Windows RT Update 3 KB3033055 .msu file (search for them on Google),
-3. Run ``rtshell-setup.exe`` and follow the wizard.
+Download and run ``rtshell-setup.exe`` and follow the wizard.
 
 ### FAQ:
 
